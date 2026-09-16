@@ -9,3 +9,9 @@ This laboratory activity simulates adjusting and controlling a lamp's brightness
 
 ```cpp
 int getLampBrightness(bool switchOn, int brightnessSetting)
+
+# Laboratory Activity 2
+
+### Files & Links:
+* 📄 **Document / Report:** [Laboratory 2.pdf](./Laboratory%202.pdf)
+* 💻 **Arduino Source Code:** [Laboratory_2.ino](./Laboratory_2.ino)
